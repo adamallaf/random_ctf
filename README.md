@@ -1,2 +1,2 @@
 # random_ctf
-Random CTF hacking games
+Programs and solutions for random CTF hacking games.
